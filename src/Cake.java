@@ -1,3 +1,5 @@
 public interface Cake {
-        public String getCake();
+        public String makeCake();
+
+
 }
