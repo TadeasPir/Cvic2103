@@ -1,5 +1,5 @@
 package StringDekorator;
 
-public class Word {
-
+public interface Word {
+    public String CheckWord();
 }
